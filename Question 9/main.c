@@ -26,7 +26,7 @@ int main() {
     printf("Sexo: %c\n", sexo);
     printf("Estado Civil: %s\n", estadoCivil);
     if (sexo == 'F' && strcmp(estadoCivil, "CASADA") == 0) {
-        printf("Anos Casada: %d\n", anosCasada);
+        printf("anos Casada: %d\n", anosCasada);
     }
 
     return 0;
